@@ -13,6 +13,8 @@ Purpose on the analysis is to find out how many employees who are about to retir
 1. how many roles will need to be filled as the 'silver tsunami' begins to make an impact
 2. are there enough qualified, retirement-ready employees in the departments to mentor the nex tgeneration of employees?
 
-two other tables or queries that may provide more insight  
+The breakdown of the retiring employees per departments are shown in the table below:  
 
-![count_of mentor_per_titles](https://github.com/kaylaisnomyname/Pewlett-Hackard-Analysis-Folder/blob/main/count%20of%20mentors%20per%20title.png?raw=true) 
+Among the 1549 eligible mentors, the break down of numbers per department is shown in the table below:
+##### Table: Mentor Count per Department
+![count_of mentor_per_titles](https://github.com/kaylaisnomyname/Pewlett-Hackard-Analysis-Folder/blob/main/mentor_title_per_dept.png?raw=true) 
