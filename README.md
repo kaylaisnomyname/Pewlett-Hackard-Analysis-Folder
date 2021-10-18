@@ -10,7 +10,8 @@ Purpose on the analysis is to find out how many employees who are about to retir
 - Total 1549 employees are eligible for mentorship program. Details are shown in mentorship_eligibilty.csv
 
 ## Summary
-In summary, there will be about 90,398 employees who are reaching 70 in the next 5 years. Most of them would be from the Development, Production and Sales departments. The breakdown of the retiring employees per departments are shown in the table2 below:  
+In summary, there will be about 90,398 employees who are reaching 70 in the next 5 years. Most of them would be from the Development, Production and Sales departments. Therefore, there would be nearly 90k positions to be filled in the next 5 years.   
+The breakdown of the retiring employees per departments are shown in the table2 below:  
 ###### Table2: Retiring Count per Department
 ![retiring_per_dept_summary](https://github.com/kaylaisnomyname/Pewlett-Hackard-Analysis-Folder/blob/main/retiring_per_dept_summary.png?raw=true)
 
