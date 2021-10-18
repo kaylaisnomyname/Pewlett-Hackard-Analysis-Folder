@@ -14,6 +14,8 @@ Purpose on the analysis is to find out how many employees who are about to retir
 2. are there enough qualified, retirement-ready employees in the departments to mentor the nex tgeneration of employees?
 
 The breakdown of the retiring employees per departments are shown in the table below:  
+##### Table: Retiring Count per Department
+![retiring_per_dept_summary](https://github.com/kaylaisnomyname/Pewlett-Hackard-Analysis-Folder/blob/main/retiring_per_dept_summary.png?raw=true)
 
 Among the 1549 eligible mentors, the break down of numbers per department is shown in the table below:
 ##### Table: Mentor Count per Department
