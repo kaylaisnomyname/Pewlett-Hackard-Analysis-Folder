@@ -18,3 +18,7 @@ There are 1549 employees who are eligible for mentorship program. The break down
 ###### Table3: Mentor Count per Department
 ![count_of mentor_per_titles](https://github.com/kaylaisnomyname/Pewlett-Hackard-Analysis-Folder/blob/main/mentor_per_dept.png?raw=true) 
 
+Further breakdown on the eligible mentors per title per department is shown in table 4 below. In each department, senior positions are still in majority. Therefore, it is reasonable to conclude that there are enough qualified employees who can mentor the next generation of PH employees.   
+
+###### Table4: Mentor Count per Title per Department
+![mentor_count_per_title_dept](https://github.com/kaylaisnomyname/Pewlett-Hackard-Analysis-Folder/blob/main/mentor_title_per_dept.png?raw=true)
